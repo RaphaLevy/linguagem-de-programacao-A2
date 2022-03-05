@@ -3,9 +3,12 @@ Avaliação final do curso de Linguagens de Programação da Escola de Matemáti
 
 O trabalho requer uma versão atualizada do seaborn para ver as visualizações. Além disso é necessário ter instalado o Driver ODBC da Microsoft: https://www.microsoft.com/pt-br/download/details.aspx?id=56567 e, para o acesso ao banco, é necessária conexão com a internet.
 
-Cientista de Dados: Raphael Levy
+Cientista de Dados: Raphael Levy 
+
 Engenheiro de Dados: Gianlucca Devigili e Juliana Carvalho
+
 Especialista em Visualização de Dados: Fernanda Gomes
+
 Especialista de Garantia da Qualidade: João Lucas Duim
 
 Ao longo do trabalho fizemos algumas interseções entre os papéis: os engenheiros de dados criaram funções do cientista de dados e os engenheiros e o cientista de dados participaram na criação dos testes unitários do especialista de garantia da qualidade
