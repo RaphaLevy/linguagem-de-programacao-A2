@@ -1,5 +1,5 @@
 # linguagem-de-programacao-A2
-Avaliação final do curso de Linguagens de Programação da Escola de Matemática Aplicada da FGV-RJ, ministrada pelo professor Rafael de Pinho André em 2020.2. 
+Avaliação final do curso de Linguagens de Programação da Escola de Matemática Aplicada da FGV-RJ, ministrado pelo professor Rafael de Pinho André em 2020.2. 
 
 O trabalho requer uma versão atualizada do seaborn para ver as visualizações. Além disso é necessário ter instalado o Driver ODBC da Microsoft: https://www.microsoft.com/pt-br/download/details.aspx?id=56567 e, para o acesso ao banco, é necessária conexão com a internet.
 
